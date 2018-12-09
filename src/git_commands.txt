@@ -1,0 +1,23 @@
+1.Repository Clone-  
+git clone git_url
+
+2.Add changes in stage- 
+git add file_s
+
+3. Unstaging changes -
+git reset HEAD
+
+4.commit changes
+git commit -m "m- means message"
+
+5.Pust to centrol repository
+git push
+
+6.Create a new branch
+git branch branch_name
+
+7.Check current branch
+git branch ( "green color" or "*" is active branch )
+
+8. Switch in different branch
+git checkout branch_name
