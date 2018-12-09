@@ -21,3 +21,11 @@ git branch ( "green color" or "*" is active branch )
 
 8. Switch in different branch
 git checkout branch_name
+
+9.Merge branch
+git checkout master
+git merge R-1( It has not push to Git only committed )
+ 
+If we create a branch and we have changes or added some changes and not push the changes only committed the changes this new Branch, Then still
+we can merges this changes in other branch, It merge from the local directory.
+
