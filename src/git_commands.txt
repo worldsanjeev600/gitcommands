@@ -29,3 +29,11 @@ git merge R-1( It has not push to Git only committed )
 If we create a branch and we have changes or added some changes and not push the changes only committed the changes this new Branch, Then still
 we can merges this changes in other branch, It merge from the local directory.
 
+10. Push new branch-
+git push --set-upstream origin R-2
+
+11. Global config email and user name-
+git config --global user.email "worldsanjeev600@gmail.com"
+git config --global user.name "worldsanjeev600"
+
+12. Now start adding text mmm
